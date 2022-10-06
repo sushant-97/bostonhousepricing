@@ -4,7 +4,7 @@ from flask import Flask, request, jsonify,url_for, render_template
 # from flask import Flask,request,app,jsonify,url_for,render_template
 import numpy as np
 from numpy.core.numeric import outer
-# import pandas as 
+import pandas as 
 
 
 app = Flask(__name__)
